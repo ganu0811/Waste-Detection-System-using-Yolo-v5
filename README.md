@@ -73,7 +73,7 @@ open up you local host and port
 
 	
 
-# ECR repo URI:
+## 3. ECR repo URI:
 <!-- 362730983739.dkr.ecr.eu-north-1.amazonaws.com/waste -->
 
 ## 4. Create EC2 machine (Ubuntu) 
