@@ -1,5 +1,21 @@
 # Waste-Detection-System-using-Yolo-v5
 
+# FlowChart
+
+## Data Ingestion
+
+<img width="1511" height="1513" alt="Data Ingetions" src="https://github.com/user-attachments/assets/a4b106b1-b7c8-4b7a-985b-a74a660372df" />
+
+
+## Data Validation
+
+<img width="1562" height="1303" alt="Data validation" src="https://github.com/user-attachments/assets/642de4a7-bffb-4303-8768-d87e8930befe" />
+
+
+## Model Trainer
+
+
+<img width="1763" height="848" alt="Model trainer" src="https://github.com/user-attachments/assets/53e42cfd-e199-4a3c-a34a-3a5002ee5591" />
 
 ## Workflows
 
